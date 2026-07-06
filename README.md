@@ -105,19 +105,14 @@ LaTeX-formatted academic resource with structured programs and sample outputs â€
 
 ## ðŸ“Š GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiGradient&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGradient&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhiGradient&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiGradient&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=AbhiGradient&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhiGradient&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
