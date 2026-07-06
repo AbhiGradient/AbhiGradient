@@ -86,33 +86,40 @@
 <tr>
 <td width="50%">
 
-### 🌀 Liquid Glass Portfolio
+### 🌀 [Liquid Glass Portfolio ↗](https://abhigradient.github.io/Portfolio/)
+
 Premium VisionOS-inspired personal portfolio built with **Next.js 15, React 19, Three.js & Framer Motion** — a 14-stage architectural build from concept to polish.
 
 `Next.js` `TypeScript` `Three.js` `Tailwind CSS 4`
 
 </td>
+
 <td width="50%">
 
-### 🏎️ TorqueX
+### 🏎️ [IgnitionX ↗](https://abhigradient.github.io/Random-website/)
+
 A 70-page hand-coded automotive e-commerce platform — built from scratch, live on GitHub Pages, blending my love for cars with clean frontend engineering.
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
 ### 🖥️ Offline AI Stack
+
 Running local LLMs and AI tools entirely offline on a modest Dell OptiPlex Mini PC — proving powerful AI doesn't need the cloud.
 
 `Ollama` `Windows Terminal` `Local Inference`
 
 </td>
+
 <td width="50%">
 
 ### 📚 Python Question Bank Generator
+
 LaTeX-formatted academic resource with structured programs and sample outputs — built for clarity, precision, and reuse.
 
 `Python` `LaTeX`
@@ -120,7 +127,6 @@ LaTeX-formatted academic resource with structured programs and sample outputs �
 </td>
 </tr>
 </table>
-
 ---
 
 
