@@ -15,13 +15,11 @@
 
 ## 🧠 About Me
 
-- 🎓 2nd-year **B.Tech in AI & Data Science Engineering** @ Zeal College of Engineering and Research (ZCOER), Pune — also pursuing a **B.Sc. in Data Science & Applications** online
-- 🛠️ I build things from the ground up — websites, offline AI stacks, and automotive platforms — because **the constraint is the point**
-- 🏎️ Long-term dream: a **global overland expedition** in a modified Ford F-150 Raptor, documented on YouTube/Twitch
+- 🎓 2nd-year **B.Tech in AI & Data Science Engineering** @ Zeal College of Engineering and Research (ZCOER), Pune — also pursuing a **B.Sc. in Data Science & Applications** @ IIT Madras BS 
+- 🛠️ I build things from the ground up — websites, offline AI stacks, and automotive platforms — because **The secret of getting ahead is getting started.**
+- 🏎️ Long-term dream: a **global overland expedition** in a LC79, documented on YouTube/Twitch
 - 🤖 Currently obsessed with **offline AI experimentation** — running local LLMs on modest hardware, no cloud required
-- 🔴 **AMD loyalist since 2012** — Team Red for life
 - 🌌 When I'm not coding, I'm thinking about impermanence, parallel timelines, and where science meets spirituality
-- 📌 Fun fact: I'm on a mission to be the first to officially bring a **Bugatti to India** 🇮🇳
 
 ---
 
@@ -108,25 +106,27 @@ A 70-page hand-coded automotive e-commerce platform — built from scratch, live
 <tr>
 <td width="50%">
 
-### 🖥️ Offline AI Stack
+### 🚌 [Bus Management System ↗](https://github.com/AbhiGradient/Bus-management-system)
 
-Running local LLMs and AI tools entirely offline on a modest Dell OptiPlex Mini PC — proving powerful AI doesn't need the cloud.
+A web-based bus management platform designed to simplify bus operations, route management, scheduling, and passenger-related workflows through a centralized system.
 
-`Ollama` `Windows Terminal` `Local Inference`
+`HTML` `CSS` `JavaScript` `Node.js`
 
 </td>
 
 <td width="50%">
 
-### 📚 Python Question Bank Generator
+### ✈️ [Flight Ticket Management System ↗](https://github.com/AbhiGradient/Flight_Ticket_Management)
 
-LaTeX-formatted academic resource with structured programs and sample outputs — built for clarity, precision, and reuse.
+A modern flight booking platform featuring flight search, passenger management, booking workflows, digital tickets, authentication, and API-driven aviation data integration.
 
-`Python` `LaTeX`
+`HTML` `CSS` `JavaScript` `Node.js`
+
 
 </td>
 </tr>
 </table>
+
 ---
 
 
