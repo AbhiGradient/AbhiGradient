@@ -3,7 +3,7 @@
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Sapkale;AI+%26+Data+Science+Engineer;Automotive+Enthusiast+%7C+Builder;Turning+Constraints+into+Creations" alt="Typing SVG" />
 
-### 🚗💻 Engineering intelligent systems by day, chasing horsepower dreams by night
+### 🚗💻 Code the algorithms of tomorrow while building the high-octane machines of today.
 
 <a href="https://github.com/AbhiGradient">
   <img src="https://komarev.com/ghpvc/?username=AbhiGradient&label=Profile%20Views&color=00ADB5&style=flat" alt="Profile Views" />
@@ -163,6 +163,6 @@ A modern flight booking platform featuring flight search, passenger management, 
 
 <div align="center">
 
-*"The constraint is the point."* 🚀
+*"UNTIL THE BREATH LEAVES THE BODY, DEAFEAT IS JUST A RUMOUR"* 🔥
 
 </div>
