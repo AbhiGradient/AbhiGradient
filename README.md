@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Sapkale;AI+%26+Data+Science+Engineer;Automotive+Enthusiast+%7C+Builder;Turning+Constraints+into+Creations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Sapkale;AI+%26+Data+Science+Engineer;(AI)+ABHISHEK+INTELLIGENCE;Automotive+Enthusiast+%7C+Builder" alt="Typing SVG" />
 
 ### 🚗💻 Code the algorithms of tomorrow while building the high-octane machines of today.
 
