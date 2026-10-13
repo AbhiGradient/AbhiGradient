@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 50" width="760" height="50">
+  <defs>
+    <filter id="glow" x="-10%" y="-100%" width="120%" height="300%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="380" y="32" text-anchor="middle"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="20" font-weight="700" font-style="italic"
+        fill="#ff6a00" filter="url(#glow)">
+    UNTIL THE BREATH LEAVES THE BODY, DEFEAT IS JUST A RUMOUR 🔥
+  </text>
+</svg>

@@ -186,6 +186,6 @@ A modern flight booking platform featuring flight search, passenger management, 
 
 <div align="center">
 
-*"UNTIL THE BREATH LEAVES THE BODY, DEAFEAT IS JUST A RUMOUR"* 🔥
+<p align="center"><img src="./assets/neon-quote.svg" alt="Until the breath leaves the body, defeat is just a rumour"></p>
 
 </div>
