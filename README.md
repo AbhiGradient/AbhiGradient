@@ -11,7 +11,7 @@
 
 </div>
 
----
+ ---
 
 ## 🧠 About Me
 
@@ -20,7 +20,6 @@
 - 🏎️ Long-term dream: a **global overland expedition** in a LC79, documented on YouTube/Twitch
 - 🤖 Currently obsessed with **offline AI experimentation** — running local LLMs on modest hardware, no cloud required
 - 🌌 When I'm not coding, I'm thinking about impermanence, parallel timelines, and where science meets spirituality
-
 ---
 
 ## 🧰 Tech Arsenal
@@ -84,48 +83,72 @@
 <tr>
 <td width="50%">
 
-### 🌀 [Liquid Glass Portfolio ↗](https://abhigradient.github.io/Portfolio/)
+### 🕹️ [Pixel Vault Arcade ↗](https://abhigradient.github.io/arcade/)
+A retro CRT-style browser arcade launcher — dependency-free, with search, genre filters, a featured-game panel and sound/CRT toggles, hosting playable games like Flappy Bird and a first-person shooter, Hellbreach.
 
-Premium VisionOS-inspired personal portfolio built with **Next.js 15, React 19, Three.js & Framer Motion** — a 14-stage architectural build from concept to polish.
-
-`Next.js` `TypeScript` `Three.js` `Tailwind CSS 4`
+`HTML` `CSS` `JavaScript`
 
 </td>
+<td width="50%">
 
+### 🔧 [ApexLine Motorworks ↗](https://apexline-cxid.onrender.com)
+A full-stack performance car parts e-commerce store with server-rendered pages, user authentication and sessions, a MySQL database, rate limiting and secure headers, deployed on Render.
+
+`Node.js` `Express` `EJS` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [Shahane GPT ↗](https://shahanebot.onrender.com/)
+An AI chatbot for C++ and general questions, combining a C++ engine (calculator and Q&A search) with a Node.js server and the Google Gemini API, with optional web search and source links.
+
+`C++` `Node.js` `Express` `Gemini API`
+
+</td>
 <td width="50%">
 
 ### 🏎️ [IgnitionX ↗](https://abhigradient.github.io/Random-website/)
-
 A 70-page hand-coded automotive e-commerce platform — built from scratch, live on GitHub Pages, blending my love for cars with clean frontend engineering.
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🚌 [Bus Management System ↗](https://bus-management-system-urmo.onrender.com/login))
+### 🌀 [Liquid Glass Portfolio ↗](https://abhigradient.github.io/Portfolio/)
+Premium VisionOS-inspired personal portfolio built with **Next.js 15, React 19, Three.js & Framer Motion** — a 14-stage architectural build from concept to polish.
 
+`Next.js` `TypeScript` `Three.js` `Tailwind CSS 4`
+
+</td>
+<td width="50%">
+
+### 🚌 [Bus Management System ↗](https://bus-management-system-urmo.onrender.com/login)
 A web-based bus management platform designed to simplify bus operations, route management, scheduling, and passenger-related workflows through a centralized system.
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
 </td>
-
+</tr>
+<tr>
 <td width="50%">
 
 ### ✈️ [Flight Ticket Management System ↗](https://github.com/AbhiGradient/Flight_Ticket_Management)
-
 A modern flight booking platform featuring flight search, passenger management, booking workflows, digital tickets, authentication, and API-driven aviation data integration.
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
+</td>
+<td width="50%">
 
 </td>
 </tr>
 </table>
+
 
 ---
 
