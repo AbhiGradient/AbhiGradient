@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130">
+  <defs>
+    <filter id="neon" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b2"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="14" result="b3"/>
+      <feMerge>
+        <feMergeNode in="b3"/>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .quote { animation: pulse 2.8s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .82; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="130" rx="16" fill="#0d1117"/>
+
+  <text class="quote" x="500" y="78" text-anchor="middle"
+        font-family="'Segoe UI', Arial, Helvetica, sans-serif"
+        font-size="34" font-weight="800" letter-spacing="1.5"
+        fill="#ff6a00" filter="url(#neon)"
+        textLength="930" lengthAdjust="spacingAndGlyphs">
+    UNTIL THE BREATH LEAVES THE BODY, DEFEAT IS JUST A RUMOUR 🔥
+  </text>
+</svg>
